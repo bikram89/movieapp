@@ -49,4 +49,6 @@
     <gap:splash gap:platform="winphone" src="res/screen/windows-phone/screen-portrait.jpg" />
     //added for access
     <access origin="*" />
+    //facebook plugin
+    <plugin name="org.apache.cordova.facebook.Connect" value="FacebookConnectPlugin" />
 </widget>
